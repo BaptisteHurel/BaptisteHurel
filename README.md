@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistehurel&hide=javascript)](https://github.com/baptistehurel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistehurel&hide=javascript)](https://github.com/baptistehurel/github-readme-stats&show_icons=true&theme=radical)
 
 ![Les Stats GitHub de BaptisteHurel](https://github-readme-stats.vercel.app/api?username=baptistehurel&show_icons=true&theme=radical)
 <!---
