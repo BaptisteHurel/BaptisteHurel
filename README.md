@@ -1,8 +1,8 @@
 ![Les Stats GitHub de BaptisteHurel](https://github-readme-stats.vercel.app/api?username=baptistehurel&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @BaptisteHurel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Python 
+- 👀 I’m interested in IA, DeepLearning, Machine Learning
+- 🌱 I’m currently learning Java, Python and C#
 - 📫 How to reach me : baptiste.hurel.pro@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistehurel&hide=javascript)](https://github.com/baptistehurel/github-readme-stats&show_icons=true&theme=radical)
